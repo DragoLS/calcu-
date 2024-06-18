@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\calc\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFD6720-74DF-4D03-8682-D1674B1B77AB}|calc\u002B\u002B\\calc\u002B\u002B.vcxproj|D:\\Projects\\calc\u002B\u002B\\calc\u002B\u002B\\calc\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECFD6720-74DF-4D03-8682-D1674B1B77AB}|calc\u002B\u002B\\calc\u002B\u002B.vcxproj|solutionrelative:calc\u002B\u002B\\calc\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calc\u002B\u002B.cpp",
+              "DocumentMoniker": "D:\\Projects\\calc\u002B\u002B\\calc\u002B\u002B\\calc\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "calc\u002B\u002B\\calc\u002B\u002B.cpp",
+              "ToolTip": "D:\\Projects\\calc\u002B\u002B\\calc\u002B\u002B\\calc\u002B\u002B.cpp",
+              "RelativeToolTip": "calc\u002B\u002B\\calc\u002B\u002B.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-25T07:31:56.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
